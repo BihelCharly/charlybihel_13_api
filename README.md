@@ -1,6 +1,6 @@
-# Project #10 - Argent Bank API
+# Project #13 - Argent Bank API
 
-This codebase contains the code needed to run the backend for Argent Bank.
+This forked and updated codebase contains the code needed to run the backend for Argent Bank.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ This codebase contains the code needed to run the backend for Argent Bank.
 
 Argent Bank uses the following tech stack:
 
-- [Node.js v12](https://nodejs.org/en/)
+- [Node.js v16.13.0](https://nodejs.org/en/)
 - [MongoDB Community Server](https://www.mongodb.com/try/download/community)
 
 Please make sure you have the right versions and download both packages. You can verify this by using the following commands in your terminal:
@@ -26,6 +26,7 @@ mongo --version
 1. Fork this repo
 1. Clone the repo onto your computer
 1. Open a terminal window in the cloned project
+1. Run MongoDB server
 1. Run the following commands:
 
 ```bash
